@@ -3,19 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoreankit&label=Profile%20views&color=0e75b6&style=flat" alt="zoreankit" /> </p>
 
-- 🔭 I’m currently working on [Lumitel](https://www.profitimpulse.com/admin/login)
-
 - 🌱 I’m currently learning **Laravel Nova, Vue.js**
-
-- 🤝 I’m looking for help with **Vue 3**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ZoreAnkit](https://github.com/ZoreAnkit)
-
-- 💬 Ask me about **laravel Nova, Vue 2**
 
 - 📫 How to reach me **ankitzore2@gmail.com**
 
-- 🎯 Hobbies Travelling, Road trips & Photography
+- 🎯 Love to travel,Go on Road trips & Photography
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
