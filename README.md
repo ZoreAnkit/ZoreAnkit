@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoreankit&show_icons=true&locale=en" alt="zoreankit" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZoreAnkit&theme=onedark)](https://github.com/ZoreAnkit/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=ZoreAnkit&theme=onedark)](https://github.com/ZoreAnkit/github-profile-trophy) -->
