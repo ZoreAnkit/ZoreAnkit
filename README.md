@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Zore</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zoreankit&label=Profile%20views&color=0e75b6&style=flat" alt="zoreankit" /> </p>
-
 - 🌱 I’m currently learning *Python*
 
 - 📫 How to reach me **ankitzore2@gmail.com**
@@ -23,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoreankit&show_icons=true&locale=en" alt="zoreankit" /></p>
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=ZoreAnkit&theme=onedark)](https://github.com/ZoreAnkit/github-profile-trophy) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zoreankit&label=Profile%20views&color=0e75b6&style=flat" alt="zoreankit" /> </p>
