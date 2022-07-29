@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ankit Zore</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
+<a href="https://app.daily.dev/ZoreAnkit"><img align="right" src="https://api.daily.dev/devcards/35532e3e6ed640d5b17ea546e9241797.png?r=2q3" width="300" alt="Ankit Zore's Dev Card"/></a>
+
 - 🌱 I’m currently learning *Python*
 
 - 📫 How to reach me **ankitzore2@gmail.com**
