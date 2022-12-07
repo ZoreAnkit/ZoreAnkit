@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Zore</h1>
+<h1 align="center">Hola/Hello/Namaste 🙏, I'm Ankit Zore</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <a href="https://app.daily.dev/ZoreAnkit"><img align="right" src="https://github.com/ZoreAnkit/ZoreAnkit/blob/main/devcard.svg" width="330" alt="Ankit Zore's Dev Card"/></a>
